@@ -6,7 +6,8 @@ This is a fictional company that I am troubleshooting and demonstrating in setti
 I also I am going break down "What I built", "Why I built", "What broke" and "How I found a solution myself after learning a mistake"
   
 BlueStone Financial group IT lead wanted to setup Microsoft Azure for IT department.
-As an IT, my goal is to setup Active Directory and Windows Server for 2,000 BlueStone Financial Group employees\
+As an IT, my goal is to setup Active Directory and Windows Server for 2,000 BlueStone Financial Group employee.
+I configure the hosting environment and deploy a sample Python application directly from an external Git repository.
 </p>
 
 
@@ -16,6 +17,26 @@ As an IT, my goal is to setup Active Directory and Windows Server for 2,000 Blue
 
 
 <h2>What I built</h2>
+
+<img width="1905" height="993" alt="image" src="https://github.com/user-attachments/assets/affd5a67-f93e-4050-bda8-7ac9d9585c30" />
+<p>After logging as administrator, I went ahead creating a web app under Create Web App page.
+I create following crucial components for the web hosting environments are resource group, name, operating system, region, linux plan and pricing plan. 
+</p>
+
+
+<img width="1617" height="1003" alt="image" src="https://github.com/user-attachments/assets/e4da9ff5-4f97-4e8d-9010-8f836b96c8dd" />
+
+
+
+<img width="1908" height="979" alt="image" src="https://github.com/user-attachments/assets/1385fc77-ed87-494a-b854-7cc920bd8ddf" />
+
+
+
+<img width="1902" height="978" alt="image" src="https://github.com/user-attachments/assets/e638da29-3353-47e2-a033-b95dcde29829" />
+
+
+<img width="1892" height="1019" alt="image" src="https://github.com/user-attachments/assets/b9e28e0d-119a-4088-884a-bcdec696d1bd" />
+
 
 <h2>Why I built</h2>
 
