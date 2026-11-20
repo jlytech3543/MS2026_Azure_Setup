@@ -38,8 +38,14 @@ I create following crucial components for the web hosting environments are resou
 <img width="1892" height="1019" alt="image" src="https://github.com/user-attachments/assets/b9e28e0d-119a-4088-884a-bcdec696d1bd" />
 
 
+<img width="1880" height="987" alt="image" src="https://github.com/user-attachments/assets/6cceaf5e-cb45-44c0-9d08-379973b6ff06" />
+
+
 <h2>Why I built</h2>
 
 <h2>What broke</h2>
+
+<img width="1737" height="996" alt="image" src="https://github.com/user-attachments/assets/5e116005-dcde-4103-a91c-ec61d042c79a" />
+
 
 <h2>How I solve the issue</h2>
